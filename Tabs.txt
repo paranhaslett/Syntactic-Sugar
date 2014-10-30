@@ -1,0 +1,13 @@
+Tabs
+Is A
+Isa.txt
+Hasa.txt
+~
+Has A
+Hasa.txt
+Hasa.txt
+~
+Does
+Does.txt
+Hasa.txt
+~
